@@ -85,7 +85,7 @@ Los créditos y las calificaciones se calculan de la siguiente manera:
 
 Para los créditos universitarios, el curso de tres créditos también requiere aprobar el examen del curso. El examen se realiza en Moodle, al que se puede acceder a través de la [página del curso de Open University](https://courses.helsinki.fi/en/aytkt21009en/131840261) una vez que se haya [registrado](/es/part0/informacion_general#registrate-para-el-examen) para el examen.
 
-La última fecha posible para realizar el examen es el 10 de enero de 2021. <b>Tenga en cuenta que debe inscribirse para el examen a más tardar el 9 de enero de 2022.</b>
+La última fecha posible para realizar el examen es el 10 de enero de 2022. <b>Tenga en cuenta que debe inscribirse para el examen a más tardar el 9 de enero de 2022.</b>
 
 Solo puede realizar el examen después de enviar suficientes ejercicios para cinco créditos. En la práctica, no es aconsejable realizar el examen inmediatamente después de presentar el número crítico de ejercicios. El examen es el mismo para 5-9 créditos y no cuenta para su calificación.
 
